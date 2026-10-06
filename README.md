@@ -5,6 +5,8 @@ A multiplayer memory card-matching game with two versions:
 - **Web version** (`index.html`): play in the browser, no install needed.
 - **Terminal version** (`memory_game.py`): play in the command line with Python.
 
+- https://ananya-k-space.github.io/memory-match-tournament/
+
 Flip two cards per turn. Find a matching pair to score points and keep your turn. Miss, and the turn passes to the next player. Whoever has the highest score when all pairs are found wins.
 
 ## ✨ Features
